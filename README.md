@@ -8,20 +8,20 @@ I build web experiences, business tools and interactive applications, with a foc
 
 ## Selected work
 
-Click any preview for screenshots, project details and the available demo or source links.
+Each project has its own visual identity. Click a cover for original screenshots, project details and the available demo or source links.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3>MIM Developers</h3>
-<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/mim-developers.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/assets/mim-developers.png" alt="MIM Developers UI preview" width="100%"></a>
+<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/mim-developers.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/covers/mim-developers-colour.png" alt="MIM Developers — Graphite & lime project cover" width="100%"></a>
 <p>A responsive software studio website with a real-time 3D sculpture, exploded technology diagram, detailed service illustrations and interactive product demos.</p>
 <p><strong>Private source</strong> · React · TypeScript · Three.js · GSAP · Cloudflare</p>
 <p><a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/mim-developers.md">Explore the project ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Forge</h3>
-<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/forge.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/assets/forge.png" alt="Forge UI preview" width="100%"></a>
+<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/forge.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/covers/forge-colour.png" alt="Forge — Midnight & electric cyan project cover" width="100%"></a>
 <p>An interactive learning workspace for full-stack development and AI, combining lessons, practice, project work, review and interview preparation.</p>
 <p><strong>Public source</strong> · React · TypeScript · Cloudflare</p>
 <p><a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/forge.md">Explore the project ↗</a></p>
@@ -30,14 +30,14 @@ Click any preview for screenshots, project details and the available demo or sou
 <tr>
 <td width="50%" valign="top">
 <h3>Zikra Arts</h3>
-<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/zikra-arts.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/assets/zikra-arts.png" alt="Zikra Arts UI preview" width="100%"></a>
+<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/zikra-arts.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/covers/zikra-arts-colour.png" alt="Zikra Arts — Burgundy & silk project cover" width="100%"></a>
 <p>An editorial commerce prototype for Indian womenswear, with collection discovery, product quick view, sizing, saved pieces and a shopping bag.</p>
 <p><strong>Public source</strong> · HTML · CSS · JavaScript</p>
 <p><a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/zikra-arts.md">Explore the project ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Taufique Ansari Portfolio</h3>
-<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/taufique-portfolio.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/assets/taufique-portfolio.png" alt="Taufique Ansari Portfolio UI preview" width="100%"></a>
+<a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/taufique-portfolio.md"><img src="https://raw.githubusercontent.com/taufiqueansari2621/project-showcase/main/covers/taufique-portfolio-colour.png" alt="Taufique Ansari Portfolio — Carbon & cobalt project cover" width="100%"></a>
 <p>A personal portfolio presenting frontend architecture, full-stack projects and conceptual connected-system visualizations.</p>
 <p><strong>Public source</strong> · Angular · TypeScript · SCSS</p>
 <p><a href="https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/taufique-portfolio.md">Explore the project ↗</a></p>
@@ -76,4 +76,4 @@ Angular · React · TypeScript · JavaScript · HTML/CSS · Flutter/Dart · Pyth
 
 Explore [mimdevelopers.com](https://mimdevelopers.com), browse the [project collection](https://mimdevelopers.com/work), or [start a conversation](https://mimdevelopers.com/contact).
 
-Private project previews show curated interface illustrations, while the public web projects and studio apps show actual UI captures. Details are explained alongside every screenshot.
+Project covers use individual palettes. Colour studies for private-project illustrations and studio demos are labelled, and original UI captures are retained in the project notes. Public app screenshots preserve their original interface colours.
